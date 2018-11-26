@@ -1,0 +1,9 @@
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.deps.json
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.dll
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.pdb
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.csprojAssemblyReference.cache
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.csproj.CoreCompileInputs.cache
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.AssemblyInfoInputs.cache
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.AssemblyInfo.cs
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.dll
+/Users/cmilkaitis/Workspace/cSharp/stringCalc/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.pdb
